@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h3 align="center">Hello there, I'm Claudia Pirela 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/emerson-espinoza-b06131189/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/emersonxinay/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/claudiapirela/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/claudia.pirela/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -34,8 +34,6 @@ Here are some ideas to get you started:
   <br>
   🔬 I’m currently working on Phyton
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Flutter
-  <br>
   📫 How to reach me: <a href="mailto: claudiapirela@gmail.com">claudiapirela@gmail.com</a>
 </p>
 
@@ -46,14 +44,12 @@ Here are some ideas to get you started:
 <hr>
 <h2 align="center"> Languages </h2>
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/32/fa314a/ruby-programming-language.png"/>
   <img src="https://img.icons8.com/color/32/python.png"/>
   <img src="https://img.icons8.com/fluency/32/node-js.png"/>
   <img src="https://img.icons8.com/color/32/javascript.png"/>
   <img src="https://img.icons8.com/officel/32/fa314a/php-logo.png"/>
   
   <img src="https://img.icons8.com/color/32/000000/dart.png"/>
-  <img src="https://img.icons8.com/color/32/fa314a/postgreesql.png"/>
   <img src="https://img.icons8.com/color/32/fa314a/mysql-logo.png"/>
 </p>
 <hr>
@@ -81,6 +77,6 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/32/000000/heroku.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/32/jira.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/32/mac-client.png"/>
+  <!-- <img src="https://img.icons8.com/ios-glyphs/32/mac-client.png"/> -->
 </p>
 
