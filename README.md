@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Claudia Pirela, Sistem Engineer & Software Developer 
+  Hi, I'm Claudia Pirela, Sistem Engineer
   <br>
   <br>
   🎓 I graduated from Sistems Engineer in University Los Andes - Venezuela
