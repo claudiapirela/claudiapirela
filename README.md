@@ -43,17 +43,14 @@ Here are some ideas to get you started:
 <h2 align="center"> Languages </h2>
 <p align="center">
   <img src="https://img.icons8.com/color/32/python.png"/>
-  <img src="https://img.icons8.com/fluency/32/node-js.png"/>
   <img src="https://img.icons8.com/color/32/javascript.png"/>
   <img src="https://img.icons8.com/officel/32/fa314a/php-logo.png"/>
-  
   <img src="https://img.icons8.com/color/32/000000/dart.png"/>
   <img src="https://img.icons8.com/color/32/fa314a/mysql-logo.png"/>
 </p>
 <hr>
 <h2 align="center"> Frameworks </h2>
 <p align="center">
-  <img src="https://img.icons8.com/windows/32/fa314a/ruby-on-rails.png"/>
   <img src="https://img.icons8.com/ios-filled/32/fa314a/laravel.png"/>
   <img src="https://img.icons8.com/officel/32/react.png"/>
   <img src="https://img.icons8.com/color/32/vue-js.png"/>
