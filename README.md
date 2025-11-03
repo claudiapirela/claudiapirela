@@ -27,8 +27,6 @@ Here are some ideas to get you started:
   <br>
   🎓 I graduated from Sistems Engineer in University Los Andes - Venezuela
   <br>
-   <br>
-  🎓 I graduated from Full Stack with Ruby On Rails in Desafio Latam
   <br>
   💻 I love writing code and learn anythings about it
   <br>
